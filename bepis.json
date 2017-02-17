@@ -86,8 +86,8 @@
         "#h#ungrr",
         "#h#nngg",
         "#h#urng",
-        "succ",
-        "fucc",
+        "suc#c#",
+        "fuc#c#",
         "suckus",
         "fuckus",
         "dankus",
@@ -197,7 +197,7 @@
         "👀#one_nonsense#👀",
         "🙌#one_nonsense#🙌",
         "👉#one_nonsense##emoji#👈",
-"❤️#one_nonsense#❤️"
+        "❤️#one_nonsense#❤️"
     ],
     "origin": [
         "#nonsense# and the #nonsense#",
@@ -261,5 +261,8 @@
     ],
     "m": [
         "mm","m#m#"
+    ],
+    "c": [
+        "c","c#c#"
     ]
 }
