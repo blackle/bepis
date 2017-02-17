@@ -73,7 +73,7 @@
         "bingo",
         "bergus",
         "hergus",
-        "\"#nonsense1\""
+        "\"#nonsense1#\""
     ],
     "nonsense2": [
         "bepis",
@@ -197,7 +197,7 @@
         "#emoji##nonsense2##emoji#",
         "#nonsense#.... #nonsense#.... #whom##emoji#",
         "#nonsense# #whom# #nonsense# #whom#!",
-        "#nonsense##emoji##emoji##emoji#"
+        "#nonsense##emoji##emoji##emoji#",
         ":clap#nonsense1#:clap:#nonsense2#:clap:#nonsense1#:clap:#nonsense2#:clap:"
     ],
     "whom": [
