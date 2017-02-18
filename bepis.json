@@ -12,7 +12,7 @@
         "hunky",
         "fuckle",
         "expando",
-        "#s#hitttt#y#",
+        "#s#hi#tt##y#",
         "peple",
         "beple",
         "bumble",
@@ -130,7 +130,7 @@
         "yumbo",
         "yams",
         "bump",
-        "#s##h##h#ittt",
+        "#s##h##h#i#tt#",
         "spankus",
         "scriungus",
         "scrinkus",
@@ -148,7 +148,7 @@
         "hongo",
         "boyardee",
         "bEPIS",
-        "pottrrrr",
+        "po#tt#rrrr",
         "#emoji#",
         "stink",
         "stank!!!",
@@ -162,7 +162,7 @@
         "toesies",
         "feeties",
         "woo",
-        "soooop",
+        "s#oo#p",
         "mambo",
         "woob",
         "woop",
@@ -172,7 +172,7 @@
         "pipple",
         "squamp",
         "squamb",
-        "boob",
+        "b#oo#b",
         "teat",
         "goo",
         "flan",
@@ -245,14 +245,14 @@
     ],
     "origin": [
         "#nonsense# and the #nonsense#",
-        "#nonsense#..... #nonsense#.... #nonsense#....",
+        "#nonsense##dots# #nonsense##dots# #nonsense##dots#",
         "#emoji##nonsense1##emoji##nonsense2##emoji#",
         "#nonsense#?? #nonsense#!",
         "#nonsense# and the #nonsense#",
         "#nonsense# and the #nonsense##emoji#",
-        "#nonsense1# the #nonsense2#... #whom# #nonsense#",
+        "#nonsense1# the #nonsense2##dots# #whom# #nonsense#",
         "#nonsense# #whom# #nonsense##emoji#",
-        "#nonsense#.... #nonsense#.... #whom##emoji#",
+        "#nonsense##dots# #nonsense##dots# #whom##emoji#",
         "#nonsense# #whom# #nonsense# #whom#!",
         "#pointey#",
         "#pointey#",
@@ -279,11 +279,11 @@
         "there",
         "that there",
         "#m##m#",
-        "uuuh#h#h....",
-        "uh..",
+        "u#u#h#h#h#dots#",
+        "uh#dots#",
         "uh,",
         "#m#,,,,,",
-        "......",
+        "#dots#",
         "and",
         "and???",
         "where",
@@ -308,5 +308,17 @@
     ],
     "c": [
         "c","c#c#"
+    ],
+    "u": [
+        "u","u#u#","uu#u#"
+    ],
+    "oo": [
+        "oo","o#oo#"
+    ],
+    "tt": [
+        "tt","t#tt#"
+    ],
+    "dots": [
+        "..",".#dots#","..#dots#"
     ]
 }
