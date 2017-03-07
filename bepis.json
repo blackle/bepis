@@ -342,7 +342,7 @@
         "#nonsense##emoji##emoji##emoji#",
         ":clap:#nonsense1#:clap:#nonsense2#:clap:#nonsense1#:clap:#nonsense2#:clap:",
         "#nonsense# #whom# #whom# #nonsense# #h##dots# #emoji#",
-        "m#m# #nonsense##dots# #whom# #nonsense# #dots##nonsense#!"
+        "#whom# #nonsense1#? #nonsense1##dots# #whom# #nonsense2#"
     ],
     "whom": [
         "whom",
